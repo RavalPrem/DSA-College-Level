@@ -9,7 +9,7 @@ Here you will get the Simple DSA codes in C++
 3) lowerTriangular Matrix
 4) upperTriangular Matrix
 
-## Unit 2: (may be)
+## Unit 2:
 1) Stack (Contains pull, push, display, peek) elements
 2) Queue (Contains enqueue, dequeue, display, peek) elements
 ---
